@@ -2,7 +2,9 @@
 
 ## Overview
 
-This notebook performs an analysis of Baker Hughes' weekly rig count data for the US and Canada. It fetches the latest rig count reports, processes the data to calculate weekly changes, and generates a brief commentary on changes in natural gas and oil rig counts.
+This study involves the manipulation of Baker Hughes' weekly rig count data for the US and Canada. It fetches the latest rig count report, processes the data to calculate weekly changes, and generates a brief commentary on changes in natural gas and oil rig counts.
+
+![rig](https://github.com/user-attachments/assets/c57ad9ff-29f7-489d-bc3f-064928aec8c7)
 
 ## Steps
 ### 1. Data Fetching:
